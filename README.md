@@ -26,13 +26,13 @@ pip install numpy
 ## Running the Code
 ### Clone the repository:
 ``` bash
-git clone https://github.com/yourusername/xor-neural-network.git
-cd xor-neural-network
+git clone https://github.com/loadkeysit/simple-neural-network.git 
+cd simple-neural-network
 ```
 
 ### Run the script:
 ```
-python xor_neural_network.py
+python minimal_nn.py
 ```
 
 ### Output
